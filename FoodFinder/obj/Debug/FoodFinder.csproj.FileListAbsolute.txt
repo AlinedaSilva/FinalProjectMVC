@@ -133,6 +133,6 @@ C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\bin\Microso
 C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\obj\Debug\FoodFinder.csprojResolveAssemblyReference.cache
 C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\obj\Debug\FoodFinder.dll
 C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\obj\Debug\FoodFinder.pdb
+C:\Users\New User\Documents\HDCS\Final Project\FoodFinder\FoodFinder\obj\Debug\FoodFinder.csprojResolveAssemblyReference.cache
